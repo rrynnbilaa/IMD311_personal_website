@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Home</title>
+</head>
+
+<style>
+
+img {
+  height: 300px;
+  padding: 5px;
+  width: 150px;
+}
+</style>
+</head>
+
+<p>
+    <style>
+        body 
+        {
+          background-image: url('flower.jpeg');
+          background-repeat: no-repeat;
+          background-attachment: fixed;
+          background-size: cover;
+        }
+    </style>
+</p>
+
+<style>
+    aside {
+
+            background-color: #A7E99C;
+            color: white;
+            float: left; 
+            border: none;
+            outline: none;
+            cursor: pointer;
+            padding: 19px;
+            font-size: 15px;
+        }
+</style>
+
+<aside>
+  <a href="index.html">Home</a>
+  <a href="gallery.html">Gallery</a>
+  <a href="education.html">Education</a>
+  <a href="family.html">Family</a>
+  <a href="content.html">Content</a>
+  <a href="contact.html">Contact</a>
+  <a href="profile.html">Profile</a>
+</aside>
+  
+<body>
+<html>
+
+<center>
+    <p><font size="16px" face=# style="font-family: serif;" color="brown">Welcome to my page. Come freely. Go safely; and leave something of what you need</font></p>
+    <p>&#128151</p>
+</center>
+
+
+
+<p>
+    <img src= "froggy.jpeg" alt="filter face" style="width:450px;height:450px;">
+</p>
+
+</body>
+</html>
